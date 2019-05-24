@@ -48,12 +48,12 @@
                     <header>
                         <section class="logo">
                             <div class="text-center">
-                                <img src="../img/cuba-logo.png" width="256"/>
+                                <img src="./img/cuba-logo.png" width="256"/>
                             </div>
                         </section>
                         <section name="navbar">
                             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                                <a class="navbar-brand" href="../static/Home.html">Home</a>
+                                <a class="navbar-brand" href="/parse/cuba">Home</a>
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                     <span class="navbar-toggler-icon"/>
                                 </button>
@@ -61,18 +61,14 @@
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item active">
-                                            <a class="nav-link" href="../static/Regiones.html">Regiones <span
-                                                    class="sr-only"/></a>
-                                        </li>
-                                        <li class="nav-item active">
-                                            <a class="nav-link" href="../static/Actividades.html">Actividades <span
+                                            <a class="nav-link" href="/parse/regiones">Regiones <span
                                                     class="sr-only"/></a>
                                         </li>
                                     </ul>
                                     <form class="form-inline my-2 my-lg-0">
                                         <input class="form-control mr-sm-2" type="search" placeholder="Buscar"
                                                aria-label="Search"/>
-                                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit"><img src="../img/logosearch.png" height="25" width="25"/></button>
+                                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit"><img src="./img/logosearch.png" height="25" width="25"/></button>
                                     </form>
                                 </div>
                             </nav>

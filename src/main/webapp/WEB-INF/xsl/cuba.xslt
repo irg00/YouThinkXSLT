@@ -35,12 +35,12 @@
                     <header>
                         <section class="logo">
                             <div class="text-center">
-                                <img src="../img/cuba-logo.png" width="256"/>
+                                <img src="./img/cuba-logo.png" width="256"/>
                             </div>
                         </section>
                         <section name="navbar">
                             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                                <a class="navbar-brand" href="#">Home</a>
+                                <a class="navbar-brand" href="/parse/cuba">Home</a>
                                 <button class="navbar-toggler" type="button" data-toggle="collapse"
                                         data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                                         aria-expanded="false" aria-label="Toggle navigation">
@@ -49,12 +49,7 @@
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item active">
-                                            <a class="nav-link" href="../static/Regiones.html">Regiones
-                                                <span class="sr-only"/>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item active">
-                                            <a class="nav-link" href="../static/Actividades.html">Actividades
+                                            <a class="nav-link" href="/parse/regiones">Regiones
                                                 <span class="sr-only"/>
                                             </a>
                                         </li>
@@ -63,7 +58,7 @@
                                         <input class="form-control mr-sm-2" type="search" placeholder="Buscar"
                                                aria-label="Search"/>
                                         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">
-                                            <img src="../img/logosearch.png" height="25" width="25"/>
+                                            <img src="./img/logosearch.png" height="25" width="25"/>
                                         </button>
                                     </form>
                                 </div>
@@ -108,7 +103,7 @@
         <xsl:for-each select="detalle">
             <div class="col-md-4">
                 <div class="thumbnail">
-                    <img width="400" height="256">
+                    <img width="350" height="256">
                         <xsl:attribute name="src">
                             <xsl:value-of select="img"/>
                         </xsl:attribute>

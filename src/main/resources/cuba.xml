@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <informacion>
     <detalle>
-        <img>"../img/ciudades.jpg"</img>
+        <img>./img/ciudades.jpg</img>
         <descripcion>Disfruta del encanto especial que tienen las ciudades de Cuba con sus grandes coloridos y sus coches clásicos.</descripcion>
     </detalle>
     <detalle>
-        <img>"../img/comida.jpg"</img>
+        <img>./img/comida.jpg</img>
         <descripcion>La gastronomía cubana es rica, variada y sabrosa.</descripcion>
     </detalle>
     <detalle>
-        <img>"../img/naturaleza.jpg"</img>
+        <img>./img/naturaleza.jpg</img>
         <descripcion>Conoce la desbordante naturaleza exotica de Cuba.</descripcion>
     </detalle>
 </informacion>

@@ -4,7 +4,7 @@
         <titulo>
             La Habana
         </titulo>
-        <img>"../img/IMG_0251.JPG"</img>
+        <img>./img/IMG_0251.JPG</img>
         <descripcion>
             La Habana, capital de Cuba, es una ciudad llena de paradojas y contradicciones, cuyos principales atractivos
             son la belleza de su casco histórico, su excepcional arquitectura, la iconografía revolucionaria y cubana
@@ -18,7 +18,7 @@
         <titulo>
             Varadero
         </titulo>
-        <img>"../img/varadero.jpg"</img>
+        <img>./img/varadero.jpg</img>
         <descripcion>
             Varadero, ubicada a 36 km de la ciudad de Matanzas, en la península de Hicacos, es el punto cubano más
             cercano a los Estados Unidos. Con una extensión de 30 km de los que 22 son playas, Varadero está considerado,
@@ -32,7 +32,7 @@
         <titulo>
             Viñales
         </titulo>
-        <img>"../img/viñales.jpg"</img>
+        <img>./img/viñales.jpg</img>
         <descripcion>
             La pintoresca ciudad de Viñales, ubicada dentro del Parque Nacional de Viñales, es para muchos uno de los lugares más
             fascinantes de toda Cuba. La localidad cuenta con testigos arquitectónicos de la época colonial que sumados a los valores
