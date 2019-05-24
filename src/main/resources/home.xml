@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<note>
+    <heading>My first Html dynamic website</heading>
+    <body>Old treasure but still useful for reporting</body>
+    <nodes>
+        <link>/parse/home</link>
+        <link>/parse/cuba</link>
+        <link>/parse/regiones</link>
+    </nodes>
+</note>

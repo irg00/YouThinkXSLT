@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<jamburgueseria>
+    <jamburguesa category="simple">
+        <name>Jamburguesa Simple</name>
+        <price>6.00€</price>
+        <description>
+            Jamburguesa con carne 100% de vacuno.
+        </description>
+    </jamburguesa>
+    <jamburguesa category="queso">
+        <name>Jamburguesa con queso</name>
+        <price>6.50€</price>
+        <description>
+            Jamburguesa con carne 100% de vacuno y queso cheddar fundido por encima.
+        </description>
+    </jamburguesa>
+    <jamburguesa category="quesobacon">
+        <name>Jamburguesa con queso y bacon</name>
+        <price>7.00€</price>
+        <description>
+            Jamburguesa con carne 100% de vacuno, queso cheddar fundido y bacon de primera calidad.
+        </description>
+    </jamburguesa>
+    <jamburguesa category="completa">
+        <name>Jamburguesa Completa</name>
+        <price>8.00€</price>
+        <description>
+            Jamburguesa con carne 100% de vacuno, queso cheddar fundido, bacon de primera calidad, cebolla crujiente y huevo recien cogido del corral.
+        </description>
+    </jamburguesa>
+    <jamburguesa category="vegana">
+        <name>Jamburguesa Vegana</name>
+        <price>8.50€</price>
+        <description>Jamburguesa hecha con tofu ahumado crujiente, lechuga, tomate, cebolla caramelizada y salsa barbacoa</description>
+    </jamburguesa>
+</jamburgueseria>
